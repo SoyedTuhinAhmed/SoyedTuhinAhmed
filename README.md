@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SoyedTuhinAhmed
-- 👀 I’m interested in Neuromorphic cimputing, Deep learning, Bayesian optimization, Resource constraint
+- 👀 I’m interested in Neuromorphic cimputing, Deep learning, Bayesian optimization, Machine learning on resource constraint devices
 - 🌱 I’m currently learning Dvance Deeplearning concepts, Neuromorphic computing
 - 💞️ I’m looking to collaborate on Al Projects
 - 📫 How to reach me ahmed.soyedtuhin@gmail.com
